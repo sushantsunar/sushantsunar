@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/sushant sunar](https://www.linkedin.com/in/sushant-sunar-4550a5251/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant sunar" height="30" width="40" /></a>
-<a href="[https://fb.com/sushant sunar](https://www.facebook.com/hancy.sushant.3)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sushant sunar" height="30" width="40" /></a>
-<a href="[https://instagram.com/sushant sunar](https://www.instagram.com/susha40/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushant sunar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sushant-sunar-4550a5251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sushant-sunar-4550a5251/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/hancy.sushant.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hancy.sushant.3" height="30" width="40" /></a>
+<a href="https://instagram.com/susha40" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susha40" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
